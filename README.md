@@ -46,5 +46,4 @@ In this project, we will cover the following key aspects:
    - Load data into the star schema tables
    - Write SQL queries for data analysis
 
-## Directory Structure
 
